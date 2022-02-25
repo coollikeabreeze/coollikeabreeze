@@ -9,11 +9,7 @@
 ### Let's connect!
 * <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Tailwind" height="20" /> [LinkedIn](http://linkedin.com/in/khanandrea)
 
-<p align="center">
-  
-[![Coollikeabreeze GitHub stats](https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=ocean_dark)](https://github.com/coollikeabreeze/github-readme-stats)
-  
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=slateorange" />
 
 <!--
 **coollikeabreeze/coollikeabreeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
