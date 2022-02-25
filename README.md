@@ -16,12 +16,15 @@
   <img src="https://img.shields.io/badge/backend-Firebase-purple?style=plastic&logo=firebase&logoColor=white&color=980acc"/>
 </div>
 
+### GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=slateorange" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coollikeabreeze&repo=stackathon-daatafi"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charmander-Cluster&repo=sweatdeck&theme=slateorange"/>
+</div> 
+
 ### Let's connect!
 * <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Tailwind" height="20" /> [LinkedIn](http://linkedin.com/in/khanandrea)
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=slateorange" />
- </div>
 
 <!--
 **coollikeabreeze/coollikeabreeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
