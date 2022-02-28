@@ -16,11 +16,15 @@
   <img src="https://img.shields.io/badge/backend-Firebase-purple?style=plastic&logo=firebase&logoColor=white&color=980acc"/>
 </div>
 
-### GitHub Stats
+### GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=midnight-purple" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coollikeabreeze&repo=stackathon-daatafi&theme=slateorange"/>
+</div> 
+  
+### Project Highlights
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charmander-Cluster&repo=sweatdeck&theme=slateorange"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coollikeabreeze&repo=stackathon-daatafi&theme=slateorange"/>
 </div> 
 
 ### Let's connect!
