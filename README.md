@@ -18,8 +18,8 @@
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=slateorange" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coollikeabreeze&repo=stackathon-daatafi"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coollikeabreeze&repo=stackathon-daatafi&theme=slateorange"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charmander-Cluster&repo=sweatdeck&theme=slateorange"/>
 </div> 
 
