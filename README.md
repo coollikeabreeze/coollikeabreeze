@@ -34,7 +34,7 @@
 
 | <div align="center"> GitHub Stats </div>                                                                                     |  <div align="center"> LeetCode Stats </div>  |
 |------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=midnight-purple" /></br><div align="center"> <sup> [GitHub README Stats by anuraghazra](https://github.com/anuraghazra/github-readme-stats) </sup> </div>    | <img height="195" src= "https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=dark" /></br><div align="center"><sup align="center">[LeetCode Stats Card by JacobLinCool](https://github.com/JacobLinCool/LeetCode-Stats-Card)</sup></div> |
+| <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=midnight-purple" /></br><div align="center"> <sup>[GitHub README Stats by anuraghazra](https://github.com/anuraghazra/github-readme-stats)</sup></div>    | <img height="195" src= "https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=dark" /></br><div align="center"><sup align="center">[LeetCode Stats Card by JacobLinCool](https://github.com/JacobLinCool/LeetCode-Stats-Card)</sup></div> |
   
 ### Project Highlights
 <div align="center">
