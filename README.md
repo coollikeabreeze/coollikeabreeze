@@ -7,13 +7,13 @@
 
 <div display="flex" align="center">
   <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/code-JavaScript-teal?style=plastic&logo=javascript&logoColor=white&color=dbba4d"/></a>
-  <a href=""><img src="https://img.shields.io/badge/backend-HTML5-purple?style=plastic&logo=html5&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/backend-HTML5-purple?style=plastic&logo=html5&logoColor=white&color=2bbc8a"/></a>
   <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/backend-CSS3-purple?style=plastic&logo=css3&logoColor=white&color=2bbc8a"/></a>
-  <a href=""><img src="https://img.shields.io/badge/frontend-React-teal?style=plastic&logo=react&logoColor=white&color=2bbc8a"/></a>
-  <a href=""><img src="https://img.shields.io/badge/frontend-Redux-teal?style=plastic&logo=redux&logoColor=white&color=2bbc8a"/></a>
-  <a href=""><img src="https://img.shields.io/badge/backend-Express-purple?style=plastic&logo=express&logoColor=white&color=980acc"/></a>
-  <a href=""><img src="https://img.shields.io/badge/backend-PostgreSQL-purple?style=plastic&logo=postgreSQL&logoColor=white&color=980acc"/></a>
-  <a href=""><img src="https://img.shields.io/badge/backend-Firebase-purple?style=plastic&logo=firebase&logoColor=white&color=980acc"/></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/frontend-React-teal?style=plastic&logo=react&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/frontend-Redux-teal?style=plastic&logo=redux&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/backend-Express-purple?style=plastic&logo=express&logoColor=white&color=980acc"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/backend-PostgreSQL-purple?style=plastic&logo=postgreSQL&logoColor=white&color=980acc"/></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/backend-Firebase-purple?style=plastic&logo=firebase&logoColor=white&color=980acc"/></a>
 </div>
 
 ### GitHub Statistics
