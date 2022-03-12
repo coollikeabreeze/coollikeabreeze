@@ -19,7 +19,7 @@
 ### GitHub & LeetCode Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=midnight-purple" />
-  <img height="195" src= "https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=nord" />
+  <img height="195" src= "https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=dark" />
 </div> 
   
 ### Project Highlights
