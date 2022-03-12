@@ -17,10 +17,24 @@
 </div>
 
 ### GitHub & LeetCode Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=midnight-purple" />
-  <img height="195" src= "https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=dark" />
-</div> 
+
+
+<!-- <table style="border: 1px solid white">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=midnight-purple" /></br>
+      <sup><a href="https://github.com/anuraghazra/github-readme-stats">GitHub README Stats by anuraghazra</a></sup>
+    </td>
+    <td>
+       <img height="195" src= "https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=dark" /> </br>
+       <sup><a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">LeetCode Stats Card by JacobLinCool</a></sup>
+    </td>
+  </tr>
+</table -->
+
+| <div align="center"> GitHub Stats </div>                                                                                     |  <div align="center"> LeetCode Stats </div>  |
+|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=midnight-purple" /></br><div align="center"> <sup> [GitHub README Stats by anuraghazra](https://github.com/anuraghazra/github-readme-stats) </sup> </div>    | <img height="195" src= "https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=dark" /></br><div align="center"><sup align="center">[LeetCode Stats Card by JacobLinCool](https://github.com/JacobLinCool/LeetCode-Stats-Card)</sup></div> |
   
 ### Project Highlights
 <div align="center">
@@ -48,3 +62,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- <div align="center" display="flex">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=midnight-purple" /></br>
+    <sup><a href="https://github.com/anuraghazra/github-readme-stats">GitHub README Stats by anuraghazra</a></sup>
+  </div>
+  <div>
+  <img height="195" src= "https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=dark" /> </br>
+  <sup><a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">LeetCode Stats Card by JacobLinCool</a></sup>
+  </div>
+</div> 
+
+<sup>[GitHub README Stats by anuraghazra](https://github.com/anuraghazra/github-readme-stats) </sup></br>
+<sup>[LeetCode Stats Card by JacobLinCool](https://github.com/JacobLinCool/LeetCode-Stats-Card)</sup> -->
