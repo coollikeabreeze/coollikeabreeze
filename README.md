@@ -16,31 +16,48 @@
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/backend-Firebase-purple?style=plastic&logo=firebase&logoColor=white&color=980acc"/></a>
 </div>
 
-### GitHub & LeetCode Stats
+### Stats & Projects
 
+<div align="center">
+  <h4 align="center">GitHub & LeetCode Stats</h4>
+</div>
 
-<!-- <table style="border: 1px solid white">
-  <tr>
+<table>
+    <thead>
+      <th><div align="center">GitHub Stats</div></th>
+      <th><div align="center">LeetCode Stats</div></th>
+    </thead>
+    <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=midnight-purple" /></br>
-      <sup><a href="https://github.com/anuraghazra/github-readme-stats">GitHub README Stats by anuraghazra</a></sup>
+      <div align="center"><sup><a href="https://github.com/anuraghazra/github-readme-stats">GitHub README Stats by anuraghazra</a></sup></div>
     </td>
     <td>
        <img height="195" src= "https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=dark" /> </br>
-       <sup><a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">LeetCode Stats Card by JacobLinCool</a></sup>
+       <div align="center"><sup><a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">LeetCode Stats Card by JacobLinCool</a></sup></div>
     </td>
   </tr>
-</table -->
+</table
 
-| <div align="center"> GitHub Stats </div></br><div align="center"> <sup>[GitHub README Stats by anuraghazra](https://github.com/anuraghazra/github-readme-stats)</sup></div>                                                                                     |  <div align="center"> LeetCode Stats </div></br><div align="center"><sup align="center">[LeetCode Stats Card by JacobLinCool](https://github.com/JacobLinCool/LeetCode-Stats-Card)</sup></div>  |
-|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=midnight-purple" />    | <img height="195" src= "https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=dark" /> |
-  
-### Project Highlights
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charmander-Cluster&repo=sweatdeck&theme=slateorange"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coollikeabreeze&repo=stackathon-daatafi&theme=slateorange"/>
-</div> 
+  <h4 align="center">Project Highlights</h4>
+</div>
+
+<div align="center">
+<table align="center">
+    <thead>
+      <th><div align="center"><a href="https://github.com/Charmander-Cluster/sweatdeck">Sweatdeck</a></div></th>
+      <th><div align="center"><a href="https://github.com/coollikeabreeze/stackathon-daatafi">Daatafi</a></div></th>
+  </thead>
+  
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Charmander-Cluster&repo=sweatdeck&theme=slateorange"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=coollikeabreeze&repo=stackathon-daatafi&theme=slateorange"/></td>
+  </tr>
+  </table>
+</div>
+
 
 <!-- ### LeetCode Stats
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=dark)](https://leetcode.com/coollikeabreeze) -->
