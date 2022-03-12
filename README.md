@@ -16,9 +16,10 @@
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/backend-Firebase-purple?style=plastic&logo=firebase&logoColor=white&color=980acc"/></a>
 </div>
 
-### GitHub Statistics
+### GitHub & LeetCode Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=midnight-purple" />
+  <img height="195" src= "https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=unicorn" />
 </div> 
   
 ### Project Highlights
@@ -26,6 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charmander-Cluster&repo=sweatdeck&theme=slateorange"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=coollikeabreeze&repo=stackathon-daatafi&theme=slateorange"/>
 </div> 
+
+<!-- ### LeetCode Stats
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=dark)](https://leetcode.com/coollikeabreeze) -->
 
 ### Let's connect!
 * <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Tailwind" height="20" /> [LinkedIn](http://linkedin.com/in/khanandrea)
