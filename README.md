@@ -35,7 +35,6 @@
     <td>
        <img height="195" src= "https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=dark" /></br>
        <div align="center"><sup><a href="https://github.com/anuraghazra/github-readme-stats">GitHub README Stats by anuraghazra</a></sup></div>
-       
     </td>
   </tr>
 </table
