@@ -14,6 +14,8 @@
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/backend-Express-purple?style=plastic&logo=express&logoColor=white&color=980acc"/></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/backend-PostgreSQL-purple?style=plastic&logo=postgreSQL&logoColor=white&color=980acc"/></a>
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/backend-Firebase-purple?style=plastic&logo=firebase&logoColor=white&color=980acc"/></a>
+  <a href="https://sequelize.org/"><img src="https://img.shields.io/badge/backend-Sequelize-purple?style=plastic&logo=sequelize&logoColor=white&color=980acc"/></a>
+  <a href="https://en.wikipedia.org/wiki/SQL/"><img src="https://img.shields.io/badge/backend-SQL-purple?style=plastic&logo=sql&logoColor=white&color=980acc"/></a>
 </div>
 
 ### Stats & Projects
