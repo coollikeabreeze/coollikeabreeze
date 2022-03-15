@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Andrea (she/her)
 * Software Engineer
+* Passionate about the nexus between education and technology
 * Brooklyn, NY
 
 ### Tech Stack
