@@ -55,7 +55,7 @@
   </thead>
   
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Charmander-Cluster&repo=sweatdeck&theme=slateorange"/></td>
+    <td><a href="https://github.com/Charmander-Cluster/sweatdeck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Charmander-Cluster&repo=sweatdeck&theme=slateorange"/></a></td>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=coollikeabreeze&repo=stackathon-daatafi&theme=slateorange"/></td>
   </tr>
   </table>
