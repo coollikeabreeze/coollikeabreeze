@@ -22,11 +22,7 @@
   <a href="https://en.wikipedia.org/wiki/SQL/"><img src="https://img.shields.io/badge/backend-SQL-purple?style=plastic&logo=sql&logoColor=white&color=980acc"/></a>
 </div>
 
-### Stats & Projects
-
-<div align="center">
-  <h4 align="center">GitHub & LeetCode Stats</h4>
-</div>
+### GitHub & LeetCode Stats
 
 <table>
     <thead>
@@ -46,9 +42,7 @@
 </table
 
 
-<div align="center">
-  <h4 align="center">Project Highlights</h4>
-</div>
+### Projects
 
 <div align="center">
 <table align="center">
