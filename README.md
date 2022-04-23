@@ -22,6 +22,24 @@
   <a href="https://en.wikipedia.org/wiki/SQL/"><img src="https://img.shields.io/badge/backend-SQL-purple?style=plastic&logo=sql&logoColor=white&color=980acc"/></a>
 </div>
 
+### Projects
+
+<div align="center">
+<table align="center">
+    <thead>
+      <th><div align="center"><a href="https://github.com/post-fsa-dream-team/divulge">Divulge</a></div></th>
+      <th><div align="center"><a href="https://github.com/Charmander-Cluster/sweatdeck">Sweatdeck</a></div></th>
+      <th><div align="center"><a href="https://github.com/coollikeabreeze/stackathon-daatafi">Daatafi</a></div></th>
+  </thead>
+  
+  <tr>
+      <td><a href="https://github.com/post-fsa-dream-team/divulge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=post-fsa-dream-team&repo=divulge&theme=slateorange"/></a></td>
+    <td><a href="https://github.com/Charmander-Cluster/sweatdeck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Charmander-Cluster&repo=sweatdeck&theme=slateorange"/></a></td>
+    <td><a href="https://github.com/coollikeabreeze/stackathon-daatafi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coollikeabreeze&repo=stackathon-daatafi&theme=slateorange"/></a></td>
+  </tr>
+  </table>
+</div>
+
 ### GitHub & LeetCode Stats
 
 <table>
@@ -42,23 +60,8 @@
 </table
 
 
-### Projects
 
-<div align="center">
-<table align="center">
-    <thead>
-      <th><div align="center"><a href="https://github.com/post-fsa-dream-team/divulge">Divulge</a></div></th>
-      <th><div align="center"><a href="https://github.com/Charmander-Cluster/sweatdeck">Sweatdeck</a></div></th>
-      <th><div align="center"><a href="https://github.com/coollikeabreeze/stackathon-daatafi">Daatafi</a></div></th>
-  </thead>
-  
-  <tr>
-      <td><a href="https://github.com/post-fsa-dream-team/divulge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=post-fsa-dream-team&repo=divulge&theme=slateorange"/></a></td>
-    <td><a href="https://github.com/Charmander-Cluster/sweatdeck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Charmander-Cluster&repo=sweatdeck&theme=slateorange"/></a></td>
-    <td><a href="https://github.com/coollikeabreeze/stackathon-daatafi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coollikeabreeze&repo=stackathon-daatafi&theme=slateorange"/></a></td>
-  </tr>
-  </table>
-</div>
+
 
 
 <!-- ### LeetCode Stats
