@@ -36,7 +36,7 @@
     <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=coollikeabreeze&theme=midnight-purple" /></br>
-      <a href="https://www.leetcode.com"><div align="center"><sup><a href="https://github.com/anuraghazra/github-readme-stats">GitHub README Stats by anuraghazra</a></sup></div></a>
+      <div align="center"><sup><a href="https://github.com/anuraghazra/github-readme-stats">GitHub README Stats by anuraghazra</a></sup></div>
     </td>
     <td>
        <img width="485" src="https://leetcode.card.workers.dev/?username=coollikeabreeze&theme=dark" /></br>
