@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Andrea (she/her)
 * Software Engineer
 * Brooklyn, NY
-* Public educator 📚📓📝 --> Software Engineer 👩🏽‍💻📱🖥
+* Public school educator 📚📓📝 --> Software Engineer 👩🏽‍💻📱🖥
 
 ### Let's connect!
 * <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Tailwind" height="20" /> [LinkedIn](http://linkedin.com/in/khanandrea)
