@@ -2,9 +2,15 @@
 * Software Engineer
 * Brooklyn, NY
 * Public school educator 📚📓📝 --> Software Engineer 👩🏽‍💻📱🖥
-
-### Let's connect!
 * <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Tailwind" height="20" /> [LinkedIn](http://linkedin.com/in/khanandrea)
+
+### Projects
+  
+<ul>
+      <li><div><a href="https://github.com/post-fsa-dream-team/divulge">Divulge</a></div></li>
+      <li><div><a href="https://github.com/Charmander-Cluster/sweatdeck">Sweatdeck</a></div></li>
+      <li><div><a href="https://github.com/coollikeabreeze/stackathon-daatafi">Daatafi</a></div></li>
+</ul>
 
 ### Tech Stack
 <!-- <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" height="18" /> JavaScript | <img style="margin: 20px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="18" /> React | <img style="margin: 20px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" height="18" /> Redux | <img style="margin: 20px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="Express" height="18" /> Express | <img style="margin: 20px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" height="18" /> PostgreSQL | <img style="margin: 20px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" height="18" /> Cloud Firebase | <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" height="18" /> HTML5 | <img style="margin: 20px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" height="18" /> CSS | <img style="margin: 20px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="TailwindCSS" height="18" /> TailwindCSS -->
@@ -20,24 +26,6 @@
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/backend-Firebase-purple?style=plastic&logo=firebase&logoColor=white&color=980acc"/></a>
   <a href="https://sequelize.org/"><img src="https://img.shields.io/badge/backend-Sequelize-purple?style=plastic&logo=sequelize&logoColor=white&color=980acc"/></a>
   <a href="https://en.wikipedia.org/wiki/SQL/"><img src="https://img.shields.io/badge/backend-SQL-purple?style=plastic&logo=sql&logoColor=white&color=980acc"/></a>
-</div>
-
-### Projects
-
-<div align="center">
-<table align="center" border="none">
-    <thead>
-      <th><div align="center"><a href="https://github.com/post-fsa-dream-team/divulge">Divulge</a></div></th>
-      <th><div align="center"><a href="https://github.com/Charmander-Cluster/sweatdeck">Sweatdeck</a></div></th>
-      <th><div align="center"><a href="https://github.com/coollikeabreeze/stackathon-daatafi">Daatafi</a></div></th>
-  </thead>
-  
-  <tr>
-      <td><a href="https://github.com/post-fsa-dream-team/divulge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=post-fsa-dream-team&repo=divulge&theme=slateorange"/></a></td>
-    <td><a href="https://github.com/Charmander-Cluster/sweatdeck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Charmander-Cluster&repo=sweatdeck&theme=slateorange"/></a></td>
-    <td><a href="https://github.com/coollikeabreeze/stackathon-daatafi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coollikeabreeze&repo=stackathon-daatafi&theme=slateorange"/></a></td>
-  </tr>
-  </table>
 </div>
 
 ### GitHub & LeetCode Stats
