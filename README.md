@@ -25,7 +25,7 @@
 ### Projects
 
 <div align="center">
-<table align="center">
+<table align="center" border="none">
     <thead>
       <th><div align="center"><a href="https://github.com/post-fsa-dream-team/divulge">Divulge</a></div></th>
       <th><div align="center"><a href="https://github.com/Charmander-Cluster/sweatdeck">Sweatdeck</a></div></th>
