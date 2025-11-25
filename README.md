@@ -28,6 +28,7 @@
   <a href="https://en.wikipedia.org/wiki/SQL/"><img src="https://img.shields.io/badge/backend-SQL-purple?style=plastic&logo=sql&logoColor=white&color=980acc"/></a>
 </div>
 
+<!---
 ### GitHub & LeetCode Stats
 
 <table>
@@ -46,7 +47,7 @@
     </td>
   </tr>
 </table
-
+-->
 
 
 
